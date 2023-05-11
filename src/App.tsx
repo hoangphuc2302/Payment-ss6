@@ -3,7 +3,9 @@ import Payment from "./Payment/pages/Payment";
 
 function App() {
   return (
-    <Payment></Payment>
+    <>
+    <Payment />
+    </>
   )
 }
 export default App;
